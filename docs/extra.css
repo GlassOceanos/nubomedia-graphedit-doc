@@ -1,5 +1,5 @@
 .wy-side-nav-search::before {
-    background: url('https://raw.githubusercontent.com/GlassOceanos/nubomedia-graphedit/master/docs/logo.png');
+    background: url('https://raw.githubusercontent.com/GlassOceanos/nubomedia-graphedit-doc/master/docs/logo.png');
     content: '';
     width: 150px;
     height: 55px;
